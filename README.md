@@ -9,7 +9,7 @@ You can add this script to your game or use it with roblox executor. (For inform
 
 Here is the link for executor:
 
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/Artss1/Flades_Hub/refs/heads/main/We%20Are%20Arts.lua](https://raw.githubusercontent.com/Kukareshnick/ActionGUI-FE-script-roblox.-Script-for-executor.-Sit-Fling-Trip/refs/heads/main/PCActionGUI.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kukareshnick/ActionGUI-FE-script-roblox.-Script-for-executor.-Sit-Fling-Trip/refs/heads/main/PCActionGUI.lua"))()
 
 
 (Script was maden by AI)
